@@ -19,3 +19,16 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+
+import { EventBus } from '@augu/utils';
+
+interface LogStreamEvents {
+  error(error: any): void;
+  data(data: string): void;
+  end(): void;
+}
+
+/**
+ * Represents a stream for all logs available, it is a [EventBus](https://utils.floofy.dev/classes/eventbus.html) :3
+ */
+export class LogStream extends EventBus<LogStreamEvents> {}

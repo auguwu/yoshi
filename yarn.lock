@@ -15,6 +15,11 @@
   resolved "https://registry.yarnpkg.com/@augu/tsconfig/-/tsconfig-1.1.1.tgz#1c3a80f0734749a63f85ebf5b22889de9ab2e976"
   integrity sha512-qTqAK8+kTefw3PTixTFUHYATvl5inkFKnz3ByaYXO6P0prq5csA2T4weyVSWzR7dKL7rto9kHXnnN/8bTuPTKg==
 
+"@augu/utils@^1.5.3":
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@augu/utils/-/utils-1.5.3.tgz#eb82352e2690b0467ef690885e6496f0e7a12da9"
+  integrity sha512-Pyu+JoK7f7AUjZvffCjf6ZLEpwa09ig7WNOn/ozzZDGeWNad9PMj8EsYzVsKLRyP/SnvbLDvpRWGEObgcACtYg==
+
 "@babel/code-frame@7.12.11":
   version "7.12.11"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.12.11.tgz#f4ad435aa263db935b8f10f2c552d23fb716a63f"
