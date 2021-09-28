@@ -23,7 +23,7 @@
     "@kubernetes/client-node": "^0.15.0",
     "blessed": "0.1.81",
     "dockerode": "^3.3.0",
-    "leeks.js": "0.2.2",
+    "leeks.js": "0.2.4",
     "node-fetch": "^2.6.1",
     "ws": "^8.0.0",
     "yargs": "^17.0.1"
